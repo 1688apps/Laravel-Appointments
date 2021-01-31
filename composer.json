@@ -16,6 +16,8 @@
         "laravel/passport": "^10.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^3.0",
+        "laravel/vapor-cli": "^1.12",
+        "laravel/vapor-core": "^2.10",
         "spatie/laravel-medialibrary": "^8.7",
         "yajra/laravel-datatables-oracle": "^9.6"
     },
